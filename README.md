@@ -35,7 +35,7 @@ $ pnpm dev
 任意のアプリケーションだけ起動したいときは
 
 ```bash
-$ cd apps/neut
+$ cd apps/sampleApp
 $ pnpm dev
 ```
 
