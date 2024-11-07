@@ -7,6 +7,7 @@
     "packages/*"
   ],
   "scripts": {
+    "backend":"pnpm -F \"backend\"",
     "dev": "turbo run dev --no-cache --parallel --continue",
     "format": "biome format",
     "format:fix": "biome format --write",
