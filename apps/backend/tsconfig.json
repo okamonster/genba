@@ -1,0 +1,9 @@
+{
+  "extends": "../../packages/ts-config/base.json",
+  "compilerOptions": {
+    "paths": {
+      "~/*": ["./src/*"],
+      "~": ["./src"]
+    }
+  }
+}
